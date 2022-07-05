@@ -118,7 +118,7 @@ h5,
 h6 {
   font-weight: 600;
   margin: 0px;
-  color: #DDDEE0;
+  color: black;
   font-family: 'Spartan', sans-serif;
 }
 
@@ -2111,7 +2111,7 @@ ol {
   font-size: 16px;
   line-height: 28px;
   margin-top: 20px;
-  color: #e6e6e6;
+  color: black;
 }
 
 .hero-area .hero-content .button {
@@ -2294,8 +2294,12 @@ ol {
   display: inline-block;
 }
 
+#titulo-contactanos {
+  color: #E6AB4F;
+}
+
 .services .single-service .text-title {
-  color: #DDDEE0;
+  color: black;
   font-size: 18px;
   line-height: 28px;
   font-weight: 700;
@@ -2411,7 +2415,7 @@ ol {
 }
 
 .about .content .list .single-list h4 {
-  color: #DDDEE0;
+  color: black;
   font-size: 15px;
   margin-bottom: 10px;
 }
